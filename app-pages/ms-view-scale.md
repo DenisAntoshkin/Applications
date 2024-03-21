@@ -26,7 +26,7 @@ After closing the application window, you can reopen it with key-in command "vie
 	
 ---
 
-There is also a version of this application without an interface. Setting the scale in this version is done by key-in ‘VIEWSCALE SET \<width\>’, where \<width\> is the desired window width. Thus, setting scale can be done using a function button by assigning the command ‘mdl load viewscale; viewscale set \<width\>’.
+There is also a version of this application without an interface. Setting the scale in this version is done by key-in ‘VIEWSCALE SET \<width\>’, where \<width\> is the desired window width. Thus, setting scale can be done using a Microstation function key by assigning the command ‘mdl load viewscale; viewscale set \<width\>’.
 
 [**Download the app with GUI**](https://github.com/DenisAntoshkin/Applications/releases/download/ViewScaleWithGui/ViewScaleWithGui.zip)
 
