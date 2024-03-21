@@ -32,7 +32,7 @@ The script has been tested for TerraPhoto 023.xxx and Metashape 2.1.0
 
 1.	Run script 'tphoto-metashape,py' from opened Metashape instance
 2.	Fill settings in the script dialog and click Ok
-3.	After the script complete load mission and image list from **'Output folder'** in **TerraPhoto** software
+3.	After the script complete load mission and image list from **'Output folder'** in TerraPhoto software
 
 ---
 
