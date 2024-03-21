@@ -2,122 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Disclaimer
 
-[Link to another page](./another-page.html).
+> The applications presented here were created at different times based on requests from our [**Terrasolid software**](https://terrasolid.com/) customers to help them process data efficiently. You can freely download and use them "as is" at your own risk. There are no guarantees of functionality and suitability for your particular purposes. 
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### _Dgn file statistics (Bentley CONNECT Edition)_
 
-# Header 1
+[**Description**](./app-pages/ms-statistics.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/DgnStatistics/stats.zip)
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### _Raster toggle (Bentley CONNECT Edition)_
 
-### Header 3
+[**Description**](./app-pages/raster-toggle.html)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterToggle/rastertoggle.zip)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+#### _Terrain-RGB-Mapbox raster generation_
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[**Description**](./app-pages/trm-rasters.html)
 
-##### Header 5
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TerrainRGB/TerrainRGB.zip)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+#### _Terrain-RGB-Mapbox tile generation_
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[**Description**](./app-pages/tms-tiles.html)
 
-### There's a horizontal rule below this.
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TMSTiles/TMS-tiles.zip)
 
-* * *
+---
 
-### Here is an unordered list:
+#### _Polygon generation (Bentley CONNECT Edition)_
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[**Description**](./app-pages/polygon-generation.html)
 
-### And an ordered list:
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/OrthoTiles/orthotiles.zip)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+#### _Width measurement (Bentley CONNECT Edition)_
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[**Description**](./app-pages/road-width.html)
 
-### Small image
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RoadWidth/roadwidth.zip)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+#### _Reading LAS/LAZ file header_
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[**Description**](./app-pages/las-header-reader.html)
 
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/LASHeader/LASHeaderReader.zip)
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+#### _VisionMap A3 -> TerraPhoto_
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[**Description**](./app-pages/visionmap-terraphoto.html)
 
-```
-The final element.
-```
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/VM2TP/VM_to_TerraPhoto.zip)
+
+---
+
+#### _Raster files georeferencing (Bentley CONNECT Edition)_
+
+[**Description**](./app-pages/raster-position.html)
+
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/rasterposition.zip)
+
