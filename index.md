@@ -12,7 +12,7 @@ layout: default
 
 [**Description**](./app-pages/ms-statistics.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/DgnStatistics/stats.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/Stats/Stats.zip)
 
 ---
 
@@ -20,7 +20,7 @@ layout: default
 
 [**Description**](./app-pages/raster-toggle.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterToggle/rastertoggle.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterToggle/RasterToggle.zip)
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 [**Description**](./app-pages/trm-rasters.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TerrainRGB/TerrainRGB.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TerrainRgb/TerrainRgb.zip)
 
 ---
 
@@ -36,7 +36,7 @@ layout: default
 
 [**Description**](./app-pages/tms-tiles.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TMSTiles/TMS-tiles.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TmsTiles/TmsTiles.zip)
 
 ---
 
@@ -44,7 +44,7 @@ layout: default
 
 [**Description**](./app-pages/polygon-generation.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/OrthoTiles/orthotiles.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/OrthoTiles/OrthoTiles.zip)
 
 ---
 
@@ -52,7 +52,7 @@ layout: default
 
 [**Description**](./app-pages/road-width.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RoadWidth/roadwidth.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RoadWidth/RoadWidth.zip)
 
 ---
 
@@ -60,7 +60,7 @@ layout: default
 
 [**Description**](./app-pages/las-header-reader.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/LASHeader/LASHeaderReader.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/LasHeaderReader/LasHeaderReader.zip)
 
 ---
 
@@ -68,7 +68,7 @@ layout: default
 
 [**Description**](./app-pages/visionmap-terraphoto.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/VM2TP/VM_to_TerraPhoto.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/VmToTerraPhoto/VmToTerraPhoto.zip)
 
 ---
 
@@ -76,5 +76,5 @@ layout: default
 
 [**Description**](./app-pages/raster-position.html)
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/rasterposition.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/RasterPosition.zip)
 
