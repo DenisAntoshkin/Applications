@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Disclaimer
+### Disclaimer
 
 > The applications presented here were created at different times based on requests from our [**Terrasolid software**](https://terrasolid.com/) customers to help them process data efficiently. You can freely download and use them "as is" at your own risk. There are no guarantees of functionality and suitability for your particular purposes. 
 
@@ -77,4 +77,12 @@ layout: default
 [**Description**](./app-pages/raster-position.html)
 
 [**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/RasterPosition.zip)
+
+---
+
+#### _TerraPhoto <-> Metashape (Python script)_
+
+[**Description**](./app-pages/terraphoto-metashape.html)
+
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TphotoMetashape/TphotoMetashape.zip)
 
