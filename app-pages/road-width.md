@@ -36,6 +36,6 @@ To use the application in another dgn file, you must restart MicroStation.
 	
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RoadWidth/roadwidth.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RoadWidth/RoadWidth.zip)
 
 [**Back to application list**](../)

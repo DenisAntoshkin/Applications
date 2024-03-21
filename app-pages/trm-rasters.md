@@ -35,6 +35,6 @@ ASCII file header example:
 	
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TerrainRGB/TerrainRGB.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TerrainRgb/TerrainRgb.zip)
 
 [**Back to application list**](../)

@@ -28,6 +28,6 @@ After closing the application window, you can reopen it with key-in command "ras
 
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/rasterposition.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/RasterPosition/RasterPosition.zip)
 
 [**Back to application list**](../)

@@ -14,6 +14,6 @@ The application converts VisionMap A3 camera data ('Detailed Report.txt') to Ter
 	
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/VM2TP/VM_to_TerraPhoto.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/VmToTerraPhoto/VmToTerraPhoto.zip)
 
 [**Back to application list**](../)

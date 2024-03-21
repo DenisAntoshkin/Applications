@@ -58,6 +58,6 @@ While the application is running, the progress bar at the bottom of the applicat
 
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TMSTiles/TMS-tiles.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TmsTiles/TmsTiles.zip)
 
 [**Back to application list**](../)

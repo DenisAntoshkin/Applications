@@ -14,6 +14,6 @@ The application extracts information contained in the LAS/LAZ file header. Suppo
 	
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/LASHeader/LASHeaderReader.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/LasHeaderReader/LasHeaderReader.zip)
 
 [**Back to application list**](../)

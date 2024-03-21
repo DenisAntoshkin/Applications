@@ -59,6 +59,6 @@ After closing the application window, you can reopen it with key-in command "sta
 	
 ---
 
-[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/DgnStatistics/stats.zip)
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/Stats/Stats.zip)
 
 [**Back to application list**](../)
