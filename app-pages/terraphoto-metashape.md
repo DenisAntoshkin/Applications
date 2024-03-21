@@ -20,11 +20,11 @@ The script has been tested for TerraPhoto 023.xxx and Metashape 2.1.0
 	- **_Focal length_** - enables to calculate focal length
 	- **_Cx,Cy_** - enables to calculate principal point
 	- **_Distortion_** - enables to calculate distortion parameters
-*	**Import GCP** - enables to use control points measured in TerraPhoto in Metashape aerial triangulation process
-*	**Tie point file** - source TerraPhoto tie point file where control points are saved (it is active if **Import GCP** is checked)
-*	**Output folder** - folder where the script results will be saved
-*	**Save Metashape project** - enables to automatically save Metashape project after the script completes
-*	**Project file** - file to save Metashape project (it is active if **Save Metashape project** is checked)
+-	**Import GCP** - enables to use control points measured in TerraPhoto in Metashape aerial triangulation process
+-	**Tie point file** - source TerraPhoto tie point file where control points are saved
+-	**Output folder** - folder where the script results will be saved
+-	**Save Metashape project** - enables to automatically save Metashape project after the script completes
+-	**Project file** - file to save Metashape project
 
 ---
 
