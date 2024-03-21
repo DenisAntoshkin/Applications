@@ -86,3 +86,12 @@ layout: default
 
 [**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/TphotoMetashape/TphotoMetashape.zip)
 
+---
+
+#### _MicroStation view scale (Bentley CONNECT Edition)_
+
+[**Description**](./app-pages/ms-view-scale.html)
+
+[**Download the app with GUI**](https://github.com/DenisAntoshkin/Applications/releases/download/ViewScaleWithGui/ViewScaleWithGui.zip)
+
+[**Download the app without GUI**](https://github.com/DenisAntoshkin/Applications/releases/download/ViewScaleWithoutGui/ViewScaleWithoutGui.zip)
