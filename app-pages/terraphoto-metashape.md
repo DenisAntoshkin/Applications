@@ -34,7 +34,7 @@ The script has been tested for TerraPhoto 023.xxx and Metashape 2.1.0
 2.	Fill settings in the script dialog and click Ok
 3.	After the script complete load mission and image list from **'Output folder'** in TerraPhoto software
 
-Here is the YouTube video how to use the script: **https://youtu.be/3q1ivfljaMs**
+Here is the YouTube video how to use the script: [**https://youtu.be/3q1ivfljaMs**](https://youtu.be/3q1ivfljaMs)
 
 ---
 
