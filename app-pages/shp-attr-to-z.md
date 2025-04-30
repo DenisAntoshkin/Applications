@@ -15,7 +15,7 @@ This Python application was created using [pyshp](https://github.com/GeospatialP
 ![](./images/ShpAttrToZ.jpg)
 
 -	**Source shapefile** - the source shapefile
--	**Elevation field** - attribute to be converted into Z-value
+-	**Elevation field** - attribute of the source shapefile to be converted into Z-value
 -	**Output shapefile** - new shapefile in which the result is saved
 
 ---
