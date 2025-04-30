@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-### Shapefile - Attribute to Z (Python)
+### Shapefile - Attribute to Z (Python executable)
 
 The application reads source shapefile, converts value of defined attribute into Z-value and saves the result to a new shapefile. All geometry types are supported **except MULTIPATCH**. Measurement (M) values of the source shapefile are saved to the output file without changes.
 
