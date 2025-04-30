@@ -95,3 +95,11 @@ layout: default
 [**Download the app with GUI**](https://github.com/DenisAntoshkin/Applications/releases/download/ViewScaleWithGui/ViewScaleWithGui.zip)
 
 [**Download the app without GUI**](https://github.com/DenisAntoshkin/Applications/releases/download/ViewScaleWithoutGui/ViewScaleWithoutGui.zip)
+
+---
+
+#### _Shapefile - Attribute to Z (Python)_
+
+[**Description**](./app-pages/shp-attr-to-z.html)
+
+[**Download the app**](https://github.com/DenisAntoshkin/Applications/releases/download/ShpAttrToZ/ShpAttrToZ.zip)
