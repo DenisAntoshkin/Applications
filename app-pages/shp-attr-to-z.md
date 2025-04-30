@@ -10,7 +10,7 @@ layout: default
 
 The application reads source shapefile, converts value of defined attribute into Z-value and saves the result to a new shapefile. All geometry types are supported **except MULTIPATCH**. Measurement (M) values of the source shapefile are saved to the output file without changes.
 
-This Python application was created using pyshp(https://github.com/GeospatialPython/pyshp/tree/master) library and compiled into single executable file using pyinstaller(https://github.com/pyinstaller). 
+This Python application was created using [pyshp](https://github.com/GeospatialPython/pyshp/tree/master) library and compiled into single executable file using [pyinstaller](https://github.com/pyinstaller). 
 
 ![](./images/ShpAttrToZ.jpg)
 
