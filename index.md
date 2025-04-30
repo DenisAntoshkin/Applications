@@ -98,7 +98,7 @@ layout: default
 
 ---
 
-#### _Shapefile - Attribute to Z (Python)_
+#### _Shapefile - Attribute to Z (Python executable)_
 
 [**Description**](./app-pages/shp-attr-to-z.html)
 
